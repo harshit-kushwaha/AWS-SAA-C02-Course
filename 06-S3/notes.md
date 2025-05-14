@@ -414,6 +414,8 @@ If you don't have access to KMS, you don't have access to the object.
 
 ### S3 Object Storage Classes
 
+![Storage Classes](Screenshot%202025-05-14%20at%209.45.16 PM.png "Storage Classes")
+
 Picking a storage class can be done while uploading a specific object.
 The default is S3 standard. Once an object is uploaded to a specific class,
 it can be changed as long as the conditions are met
